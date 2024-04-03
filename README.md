@@ -1,8 +1,6 @@
 # HamsterCMS_Simple_theme
 
-https://github.com/turboblack/HamsterCMS_Simple_theme/blob/main/simple.png
-
-https://github.com/turboblack/HamsterCMS theme for HamsterCMS adapted for old browsers
+https://github.com/turboblack/HamsterCMS
 
 ![this is what theme looks like](https://github.com/turboblack/HamsterCMS_Simple_theme/blob/main/simple.png)
 
